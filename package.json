@@ -1,0 +1,7 @@
+{
+  "name": "turnir-platforma",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shaxsiy o’yin turnirlari uchun statik veb-platforma (build talab qilinmaydi)",
+  "scripts": { "start": "npx serve ." }
+}
